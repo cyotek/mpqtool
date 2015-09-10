@@ -1,0 +1,1 @@
+MpqTool is a command line tool for viewing and extracting files from Blizzard MPQ Archives. It is written purely in C# and supports archives up to World of Warcraft.
